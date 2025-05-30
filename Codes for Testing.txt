@@ -1,0 +1,116 @@
+------------------------------------------------------------
+              ARG-Specific Module-Based Codes:
+------------------------------------------------------------
+
+-----Keyboard Symbol:-----
+
+Code: >$ _[< $÷÷# >/  >/ ×>)) %=[×
+Translation: IF YOU FEED IT IT WILL GROW
+
+Code: !=÷ _[< )>@/÷,>,%
+Translation: ARE YOU LISTENING
+
+
+-----Numdot Cipher:-----
+
+Code: 6.9.7.4.2..3.9..4.. 
+Translation: YOURSELF
+
+Code:
+8.5.2..
+1..9..9..
+1..5...9.7.5.
+5.6..1..5.
+9..9.5..
+3...1..5...8.6...
+5...1..5...6.
+Translation:
+ITS
+ALL
+ABOUT
+THAT
+LOG
+CABIN
+BABY
+
+
+-----Slash Cipher:-----
+
+Code:
+T/U I/P Y/I Q/E U/O
+K/A K/A K/A
+W/R L/S S/F R/Y
+G/J W/R Q/E
+L/S T/U V/N W/R
+R/Y Q/E
+W/R W/R B/M
+A/D O/Q
+L/S X/V W/R A/D
+
+Translation:
+YOUWI LLL EADT HEW AYBE TW EEN SP ACES
+
+-------------------------------------------------------
+              General Module-Based Codes:
+-------------------------------------------------------
+
+-----1337:-----
+
+Code:
+Translation:
+
+
+-----ABC Multitap:-----
+
+Code:
+Translation:
+
+
+-----Binary-ASCII:-----
+
+Code:
+Translation:
+
+
+-----Letter-Number:-----
+
+Code:
+Translation:
+
+
+-----Morse Code:-----
+
+Code: ....- -.. / ... . -.-. ..- .-. .. - -.-- / -... .-. . .- -.-. ....
+Translation: 4D Security Breach
+
+-----Number Replacement:-----
+
+Code:
+Translation:
+
+
+-----T9:-----
+
+Code:
+Translation:
+
+
+---------------------------------------------------------
+              Algorithmically-Solved Codes:
+---------------------------------------------------------
+
+-----Caesar Cipher:-----
+
+Code:
+Translation:
+
+
+--------------------------------------------
+              Compounds Codes:
+--------------------------------------------
+
+-----Keyboard-Symbol Left-Shift:-----
+
+Code:
+Translation:
+

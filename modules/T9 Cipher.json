@@ -1,0 +1,21 @@
+{
+    "metadata": "T9 Cipher",
+    "settings": {
+      "word_separator": " ",
+      "character_separator": null,
+      "chunk_size": [1, 1],
+      "padding": ["", ""],
+      "reverse_direction": false
+    },
+    "encoding": {
+      "2": ["A","B","C"],
+      "3": ["D","E","F"],
+      "4": ["G","H","I"],
+      "5": ["J","K","L"],
+      "6": ["M","N","O"],
+      "7": ["P","Q","R", "S"],
+      "8": ["T","U","V"],
+      "9": ["W","X","Y", "Z"]
+    }
+  }
+  

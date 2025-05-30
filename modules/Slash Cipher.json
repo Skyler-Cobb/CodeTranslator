@@ -1,0 +1,38 @@
+{
+  "metadata": "Slash Cipher",
+  "settings": {
+    "word_separator": ["\n", " "],
+    "character_separator": " ",
+    "chunk_size": [null, null],
+    "padding": [null, null],
+    "reverse_direction": false
+  },
+  "encoding": {
+    "L/S": "A",
+    "V/N": "B",
+    "X/V": "C",
+    "S/F": "D",
+    "W/R": "E",
+    "D/G": "F",
+    "F/H": "G",
+    "G/J": "H",
+    "U/O": "I",
+    "H/K": "J",
+    "J/L": "K",
+    "K/A": "L",
+    "N/Z": "M",
+    "B/M": "N",
+    "I/P": "O",
+    "O/Q": "P",
+    "P/W": "Q",
+    "E/T": "R",
+    "A/D": "S",
+    "R/Y": "T",
+    "Y/I": "U",
+    "C/B": "V",
+    "Q/E": "W",
+    "Z/C": "X",
+    "T/U": "Y",
+    "M/X": "Z"
+  }
+}

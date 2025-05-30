@@ -1,0 +1,39 @@
+{
+    "metadata": "T9 Cipher",
+    "settings": {
+      "word_separator": " ",
+      "character_separator": null,
+      "chunk_size": [null, null],
+      "padding": [null, null],
+      "reverse_direction": false
+    },
+    "encoding": {
+      "ᔑ": "A",
+      "ʖ": "B",
+      "ᓵ": "C",
+      "↸": "D",
+      "ᒷ": "E",
+      "⎓": "F",
+      "⊣": "G",
+      "⍑": "H",
+      "╎": "I",
+      "⋮": "J",
+      "ꖌ": "K",
+      "ꖎ": "L",
+      "ᒲ": "M",
+      "リ": "N",
+      "𝙹": "O",
+      "!¡": "P",
+      "ᑑ": "Q",
+      "∷": "R",
+      "ᓭ": "S",
+      "ℸ ̣ ": "T",
+      "⚍": "U",
+      "⍊": "V",
+      "∴": "W",
+      "̇/": "X",
+      "||": "Y",
+      "⨅": "Z"
+    }
+  }
+  
