@@ -1,0 +1,38 @@
+{
+  "metadata": "Atbash",
+  "settings": {
+    "word_separator": " ",
+    "character_separator": null,
+    "chunk_size": [null, null],
+    "padding": [null, null],
+    "reverse_direction": false
+  },
+  "encoding": {
+    "Z": "A",
+    "Y": "B",
+    "X": "C",
+    "W": "D",
+    "V": "E",
+    "U": "F",
+    "T": "G",
+    "S": "H",
+    "R": "I",
+    "Q": "J",
+    "P": "K",
+    "O": "L",
+    "N": "M",
+    "M": "N",
+    "L": "O",
+    "K": "P",
+    "J": "Q",
+    "I": "R",
+    "H": "S",
+    "G": "T",
+    "F": "U",
+    "E": "V",
+    "D": "W",
+    "C": "X",
+    "B": "Y",
+    "A": "Z"
+  }
+}

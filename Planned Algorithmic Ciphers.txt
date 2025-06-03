@@ -1,0 +1,59 @@
+------------------------------------------------------------
+                       Affine Cipher
+------------------------------------------------------------
+
+The affine cipher uses a basic formula of (ax + b) modM to encrypt a message. Here, x is the original numeric value of the character, b is the desired shift, and M is the length of the standard English alphabet which equates to 26.
+
+While the full English alphabet of 26 characters is most often used, it may not always be used in full. For example, if you wanted to use half of the alphabet, 13 characters, you could, and you’d use (ax + b) mod 13.
+
+For the value of a, you must choose something that is coprime with m. That means, with a value of 26 for m, you cannot choose a value like 12, as it has a common factor of 2. Rather, a value of 5 works well as it has factors in common with 26.
+
+From the original formula (ax + b) mod26, we can find the decryption cipher as well.
+
+a^-1 (x-b) modM
+
+where a^-1 is the modular multiplicative inverse of a modM.
+
+From there, we find that:
+
+ax= 1 (modM).
+
+
+------------------------------------------------------------
+                     Railfence Cipher
+------------------------------------------------------------
+
+To use the rail fence cipher, you need to decide how many “rails” you want to use. It’s most common to use three rails, or three lines. This is shown below with the plaintext “Escape now.”
+E	*	*	*	P	*	*	*	W
+*	S	*	A	*	E	*	O	*
+*	*	C	*	*	*	N	*	*
+
+Now, to create the ciphertext, you simply read off the characters horizontally. The resultant ciphertext is “EPWSAEOCN”.
+
+If you were to use four rails, you would get the following table.
+E	*	*	*	*	*	N	*	*
+*	S	*	*	*	E	*	O	*
+*	*	C	*	P	*	*	*	W
+*	*	*	A	*	*	*	*	*
+
+The ciphertext from this version is “ENSEOCPWA”, slightly different.
+
+
+------------------------------------------------------------
+                  Polybius Square Cipher
+------------------------------------------------------------
+
+In the latin alphabet, the typical form of a Polybius square is:
+
+
+ 	1 	2 	3 	4 	5
+1 	A 	B 	C 	D 	E
+2 	F 	G 	H 	I/J 	K
+3 	L 	M 	N 	O 	P
+4 	Q 	R 	S 	T 	U
+5 	V 	W 	X 	Y 	Z
+
+
+This alphabet, and this latter form of the Polybius square, is used when implementing the square in other Western European languages such as English, Spanish, French, German, Italian, Portuguese, and Dutch.
+
+Each letter is then represented by its coordinates in the grid. For example, "BAT" becomes "12 11 44". The 26 letters of the Latin/English alphabet do not fit in a 5 × 5 square, two letters must be combined (usually I and J as above, though C and K is an alternative). Alternatively, a 6 × 6 grid may be used to allow numerals or special characters to be included as well as letters. 

@@ -1,8 +1,8 @@
 {
     "metadata": "Morse Code",
-    "usage": {
-      "character_separator": " ",
+    "settings": {
       "word_separator": "/",
+      "character_separator": " ",
       "chunk_size": [null, null],
       "padding": [null, null],
       "reverse_direction": false
